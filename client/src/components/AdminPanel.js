@@ -13,7 +13,7 @@ const AdminPanel = () => {
   return (
     <>
       <div className="card border-primary mb-3">
-        <div className="card-header text-center">ADMIN PANEL</div>
+        <div className="card-header text-center">Upload Pet Pic</div>
         <div className="card-body text-primary">
           <form>
             <div className="form-row">
